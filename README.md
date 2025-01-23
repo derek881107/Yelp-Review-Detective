@@ -71,10 +71,10 @@ Here’s the deal:
 ## 🖼️ **Preview**  
 
 ### Word Cloud for 1-Star Reviews:  
-![One Star Word Cloud](https://via.placeholder.com/800x400?text=1-Star+Word+Cloud)  
+word cloud for 1-star-reviews.png
 
 ### Word Cloud for 5-Star Reviews:  
-![Five Star Word Cloud](https://via.placeholder.com/800x400?text=5-Star+Word+Cloud)  
+word cloud for 5-star-reviews.png
 
 ---
 
@@ -84,7 +84,6 @@ Because life is too short to read every Yelp review. Let the code do the hard wo
 ---
 
 ## 🥳 **Contributors**
-- **[Your Name]** – *Code Wizard*  
 - **Python** – *The Language that Does it All*  
 - **SpaCy** – *Text Processing on Steroids*  
 - **WordCloud** – *Making Data Look Sexy*  
